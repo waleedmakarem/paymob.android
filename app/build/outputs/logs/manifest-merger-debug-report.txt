@@ -1,0 +1,509 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:databinding-adapters:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/6e06551a52ba0b2da544a443f97d7469/transformed/databinding-adapters-8.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c19d1eea0c7ec16cdd4b5fd3e4acacb8/transformed/databinding-runtime-8.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/06341ae600bb3fceeb5fa2eccdf0bc2a/transformed/navigation-ui-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/73d0c7c2dfe862fc724f9df02f5c0c52/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3f4136bb89b381bd626f34fda8ca0ff9/transformed/constraintlayout-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/597a9d7a4c14f574de414e4ad44ba98f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.hbb20:ccp:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/860738669cb4569394f16609bec8dcee/transformed/ccp-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.aabhasr1:OtpView:v1.1.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/98dd8e4e37bcd5dbef66e10be463aba4/transformed/OtpView-v1.1.2/AndroidManifest.xml:2:1-11:12
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8e8beb6c0324fab9c5d0cda9e5a594e0/transformed/koin-android-3.3.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.skydoves:powerspinner:1.2.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/562513ea1446918be41e64ecf32faa83/transformed/powerspinner-1.2.6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference-ktx:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/39a58d3a99f9390bf72443533f4ca38b/transformed/preference-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/91e5c3a0d33a293a5787f5c00889dde5/transformed/preference-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/90f9cac529072483f531dae1c81d670d/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/4ccd0a2f1d97c0eac01a024a8447b59f/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1a80a88d752b47f7864b5dc567d4ba3f/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9dbccc0a71506e7961b20b03b68ad481/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2dd78d0cfaf2ff54556680b12c3dbc4c/transformed/activity-ktx-1.10.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5a21fa561ed18993ebeb081e9feaa5c7/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:19.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/af7590b691dec7ea7ff15a35e814df48/transformed/play-services-wallet-19.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-identity:18.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/01d3fe1c0c75a15fcd1cdafb10605ba7/transformed/play-services-identity-18.1.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2039ddcb1a890cb60ac46c5fe5581f63/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5ea66181702c337f387933502cb96454/transformed/fragment-1.5.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.10.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/661d21558cbe47f5662ee04748c6ac44/transformed/activity-1.10.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2cae33cbe0add00a1315592ca8e1a0bf/transformed/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c9e726f991263978f9c55c87047022de/transformed/navigation-common-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e4097eee53102512428471d039928576/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/717e1a785cc50bdce039fffc4c8c670d/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/321ead2a9a8d3c7b2bf9a62d28330ae1/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d1fb37114728160d24d46fa883fcf417/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/054684d9b0e3758691e79b3348a0126b/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/77b7fafcdac115065b530548f125d4e9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/29043feb632135f8834704fb77541188/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3126412a2fd016ab22c1785b9fb7a27d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/406e2134b38f22fce482737311ca5c1f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/62a724ea61472fb6da0386c2e4d7a0ae/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c0d6cff075bafe7af018c489c87978b2/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a9906d2bef2af6dbfa4d5425c97e5c46/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/308fe45d8f9fd20be780413c0aff66b9/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e861f730a20bb1f56ace35d8506165ab/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e31b365a0093ba754d61ba2ca4a69a06/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8c4018da7e254b7c41242c9160f0e2b1/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d66a859628d64c6390f78817836d2564/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/08c3ab07412b3d6125f8ff64561b0c3d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9715ab564604d94a0dc9edfd6704816e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/80457408846ba5227cee8ec178d21f20/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/4256db040df318399b64fb97037b0000/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fd5549d80fb673848b303c96dfd903d3/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5f6757e671e82ee6c82c759ae61742a2/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/bf2f72cd933444da9027b947ae699214/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2b9dba2d2487a58b024fc7135fb376e1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/65dcd8809b1428d015ebb78e7acdf0d9/transformed/viewbinding-8.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/03d657091fd8ccc58a29bee6dd36970a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/29d5164a4c66693f1487d942690ebea2/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/71cbf253b12493fca81fc4f2408cf54f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d93071a1d2aebd5f50bf0a9d61783632/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a349810a0e723a73538dd551b30853c9/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/46ec2e1d6af6ea0b110f2172c5783491/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e07bb62c5f0254e3422a4680f6fdd9f9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3d75df40c2e21ba17971fdf3806174f7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a35371c2f42f203b94ef749c3f98a9cf/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:5.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8d099c3fa3ebfdc88ccbcad499d2f916/transformed/timber-5.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1d26677878b637b9fa9bc3ed884c8baf/transformed/circularprogressbar-3.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9c0946af320d1c289f9d78406bc206ad/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c8569bad14e5d30a52ba35e7cb8c62c8/transformed/sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/66d2399a490314dedcd34af4b197cb73/transformed/ssp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.19-2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/92a2ba623e99074d92667e4fc37668ef/transformed/libphonenumber-android-8.12.19-2/AndroidManifest.xml:2:1-9:12
+	package
+		INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:5:5-24:19
+INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:10:5-21:19
+MERGED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:10:5-21:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/73d0c7c2dfe862fc724f9df02f5c0c52/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/73d0c7c2dfe862fc724f9df02f5c0c52/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3f4136bb89b381bd626f34fda8ca0ff9/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3f4136bb89b381bd626f34fda8ca0ff9/transformed/constraintlayout-2.2.0/AndroidManifest.xml:7:5-20
+MERGED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:9:5-19:19
+MERGED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:9:5-19:19
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8e8beb6c0324fab9c5d0cda9e5a594e0/transformed/koin-android-3.3.3/AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8e8beb6c0324fab9c5d0cda9e5a594e0/transformed/koin-android-3.3.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-identity:18.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/01d3fe1c0c75a15fcd1cdafb10605ba7/transformed/play-services-identity-18.1.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-identity:18.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/01d3fe1c0c75a15fcd1cdafb10605ba7/transformed/play-services-identity-18.1.0/AndroidManifest.xml:6:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2039ddcb1a890cb60ac46c5fe5581f63/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2039ddcb1a890cb60ac46c5fe5581f63/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:5:5-7:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2b9dba2d2487a58b024fc7135fb376e1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2b9dba2d2487a58b024fc7135fb376e1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/71cbf253b12493fca81fc4f2408cf54f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/71cbf253b12493fca81fc4f2408cf54f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.jakewharton.timber:timber:5.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8d099c3fa3ebfdc88ccbcad499d2f916/transformed/timber-5.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8d099c3fa3ebfdc88ccbcad499d2f916/transformed/timber-5.0.0/AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:13:9-54
+	android:dataExtractionRules
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:7:9-65
+activity#com.unopharm.myapplication666.MainActivity
+ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/6e06551a52ba0b2da544a443f97d7469/transformed/databinding-adapters-8.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/6e06551a52ba0b2da544a443f97d7469/transformed/databinding-adapters-8.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c19d1eea0c7ec16cdd4b5fd3e4acacb8/transformed/databinding-runtime-8.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c19d1eea0c7ec16cdd4b5fd3e4acacb8/transformed/databinding-runtime-8.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:5:5-44
+MERGED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/06341ae600bb3fceeb5fa2eccdf0bc2a/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/06341ae600bb3fceeb5fa2eccdf0bc2a/transformed/navigation-ui-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.12.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/73d0c7c2dfe862fc724f9df02f5c0c52/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/73d0c7c2dfe862fc724f9df02f5c0c52/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3f4136bb89b381bd626f34fda8ca0ff9/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3f4136bb89b381bd626f34fda8ca0ff9/transformed/constraintlayout-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/597a9d7a4c14f574de414e4ad44ba98f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/597a9d7a4c14f574de414e4ad44ba98f/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [com.hbb20:ccp:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/860738669cb4569394f16609bec8dcee/transformed/ccp-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.hbb20:ccp:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/860738669cb4569394f16609bec8dcee/transformed/ccp-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.aabhasr1:OtpView:v1.1.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/98dd8e4e37bcd5dbef66e10be463aba4/transformed/OtpView-v1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.aabhasr1:OtpView:v1.1.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/98dd8e4e37bcd5dbef66e10be463aba4/transformed/OtpView-v1.1.2/AndroidManifest.xml:7:5-9:41
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8e8beb6c0324fab9c5d0cda9e5a594e0/transformed/koin-android-3.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.3.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8e8beb6c0324fab9c5d0cda9e5a594e0/transformed/koin-android-3.3.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.skydoves:powerspinner:1.2.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/562513ea1446918be41e64ecf32faa83/transformed/powerspinner-1.2.6/AndroidManifest.xml:20:5-44
+MERGED from [com.github.skydoves:powerspinner:1.2.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/562513ea1446918be41e64ecf32faa83/transformed/powerspinner-1.2.6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference-ktx:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/39a58d3a99f9390bf72443533f4ca38b/transformed/preference-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/39a58d3a99f9390bf72443533f4ca38b/transformed/preference-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/91e5c3a0d33a293a5787f5c00889dde5/transformed/preference-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/91e5c3a0d33a293a5787f5c00889dde5/transformed/preference-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/90f9cac529072483f531dae1c81d670d/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/90f9cac529072483f531dae1c81d670d/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/4ccd0a2f1d97c0eac01a024a8447b59f/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/4ccd0a2f1d97c0eac01a024a8447b59f/transformed/navigation-fragment-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1a80a88d752b47f7864b5dc567d4ba3f/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1a80a88d752b47f7864b5dc567d4ba3f/transformed/navigation-runtime-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9dbccc0a71506e7961b20b03b68ad481/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9dbccc0a71506e7961b20b03b68ad481/transformed/fragment-ktx-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2dd78d0cfaf2ff54556680b12c3dbc4c/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.10.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2dd78d0cfaf2ff54556680b12c3dbc4c/transformed/activity-ktx-1.10.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5a21fa561ed18993ebeb081e9feaa5c7/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5a21fa561ed18993ebeb081e9feaa5c7/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-wallet:19.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/af7590b691dec7ea7ff15a35e814df48/transformed/play-services-wallet-19.4.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-wallet:19.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/af7590b691dec7ea7ff15a35e814df48/transformed/play-services-wallet-19.4.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-identity:18.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/01d3fe1c0c75a15fcd1cdafb10605ba7/transformed/play-services-identity-18.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-identity:18.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/01d3fe1c0c75a15fcd1cdafb10605ba7/transformed/play-services-identity-18.1.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2039ddcb1a890cb60ac46c5fe5581f63/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2039ddcb1a890cb60ac46c5fe5581f63/transformed/play-services-tasks-18.2.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5ea66181702c337f387933502cb96454/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5ea66181702c337f387933502cb96454/transformed/fragment-1.5.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.10.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/661d21558cbe47f5662ee04748c6ac44/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.10.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/661d21558cbe47f5662ee04748c6ac44/transformed/activity-1.10.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2cae33cbe0add00a1315592ca8e1a0bf/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2cae33cbe0add00a1315592ca8e1a0bf/transformed/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c9e726f991263978f9c55c87047022de/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c9e726f991263978f9c55c87047022de/transformed/navigation-common-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e4097eee53102512428471d039928576/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e4097eee53102512428471d039928576/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/717e1a785cc50bdce039fffc4c8c670d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/717e1a785cc50bdce039fffc4c8c670d/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/321ead2a9a8d3c7b2bf9a62d28330ae1/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/321ead2a9a8d3c7b2bf9a62d28330ae1/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d1fb37114728160d24d46fa883fcf417/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d1fb37114728160d24d46fa883fcf417/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/054684d9b0e3758691e79b3348a0126b/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/054684d9b0e3758691e79b3348a0126b/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/77b7fafcdac115065b530548f125d4e9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/77b7fafcdac115065b530548f125d4e9/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/29043feb632135f8834704fb77541188/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/29043feb632135f8834704fb77541188/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3126412a2fd016ab22c1785b9fb7a27d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3126412a2fd016ab22c1785b9fb7a27d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/406e2134b38f22fce482737311ca5c1f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/406e2134b38f22fce482737311ca5c1f/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/62a724ea61472fb6da0386c2e4d7a0ae/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/62a724ea61472fb6da0386c2e4d7a0ae/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c0d6cff075bafe7af018c489c87978b2/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c0d6cff075bafe7af018c489c87978b2/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a9906d2bef2af6dbfa4d5425c97e5c46/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a9906d2bef2af6dbfa4d5425c97e5c46/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/308fe45d8f9fd20be780413c0aff66b9/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/308fe45d8f9fd20be780413c0aff66b9/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e861f730a20bb1f56ace35d8506165ab/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e861f730a20bb1f56ace35d8506165ab/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e31b365a0093ba754d61ba2ca4a69a06/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e31b365a0093ba754d61ba2ca4a69a06/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8c4018da7e254b7c41242c9160f0e2b1/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8c4018da7e254b7c41242c9160f0e2b1/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d66a859628d64c6390f78817836d2564/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d66a859628d64c6390f78817836d2564/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/08c3ab07412b3d6125f8ff64561b0c3d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/08c3ab07412b3d6125f8ff64561b0c3d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9715ab564604d94a0dc9edfd6704816e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9715ab564604d94a0dc9edfd6704816e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/80457408846ba5227cee8ec178d21f20/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/80457408846ba5227cee8ec178d21f20/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/4256db040df318399b64fb97037b0000/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/4256db040df318399b64fb97037b0000/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fd5549d80fb673848b303c96dfd903d3/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fd5549d80fb673848b303c96dfd903d3/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5f6757e671e82ee6c82c759ae61742a2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/5f6757e671e82ee6c82c759ae61742a2/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/bf2f72cd933444da9027b947ae699214/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/bf2f72cd933444da9027b947ae699214/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2b9dba2d2487a58b024fc7135fb376e1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/2b9dba2d2487a58b024fc7135fb376e1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/65dcd8809b1428d015ebb78e7acdf0d9/transformed/viewbinding-8.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.7.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/65dcd8809b1428d015ebb78e7acdf0d9/transformed/viewbinding-8.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/03d657091fd8ccc58a29bee6dd36970a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/03d657091fd8ccc58a29bee6dd36970a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/29d5164a4c66693f1487d942690ebea2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/29d5164a4c66693f1487d942690ebea2/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/71cbf253b12493fca81fc4f2408cf54f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/71cbf253b12493fca81fc4f2408cf54f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d93071a1d2aebd5f50bf0a9d61783632/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/d93071a1d2aebd5f50bf0a9d61783632/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a349810a0e723a73538dd551b30853c9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a349810a0e723a73538dd551b30853c9/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/46ec2e1d6af6ea0b110f2172c5783491/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/46ec2e1d6af6ea0b110f2172c5783491/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e07bb62c5f0254e3422a4680f6fdd9f9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e07bb62c5f0254e3422a4680f6fdd9f9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3d75df40c2e21ba17971fdf3806174f7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/3d75df40c2e21ba17971fdf3806174f7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a35371c2f42f203b94ef749c3f98a9cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/a35371c2f42f203b94ef749c3f98a9cf/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8d099c3fa3ebfdc88ccbcad499d2f916/transformed/timber-5.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/8d099c3fa3ebfdc88ccbcad499d2f916/transformed/timber-5.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1d26677878b637b9fa9bc3ed884c8baf/transformed/circularprogressbar-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1d26677878b637b9fa9bc3ed884c8baf/transformed/circularprogressbar-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9c0946af320d1c289f9d78406bc206ad/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/9c0946af320d1c289f9d78406bc206ad/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c8569bad14e5d30a52ba35e7cb8c62c8/transformed/sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/c8569bad14e5d30a52ba35e7cb8c62c8/transformed/sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/66d2399a490314dedcd34af4b197cb73/transformed/ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/66d2399a490314dedcd34af4b197cb73/transformed/ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.19-2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/92a2ba623e99074d92667e4fc37668ef/transformed/libphonenumber-android-8.12.19-2/AndroidManifest.xml:5:5-7:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.12.19-2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/92a2ba623e99074d92667e4fc37668ef/transformed/libphonenumber-android-8.12.19-2/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/waleedmakarem/Desktop/SuperMarket/Android/BackupStorageF/SuperMarket/app/MyApplication666/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:8:22-64
+activity#com.paymob.paymob_sdk.ui.PaymobSdkActivity
+ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:11:9-16:56
+	android:screenOrientation
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:15:13-49
+	android:exported
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:14:13-37
+	android:configChanges
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:13:13-109
+	android:theme
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:12:13-70
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:18:9-20:36
+	android:value
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:20:13-33
+	android:name
+		ADDED from [com.paymob.sdk:Paymob-SDK:1.5.7] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/901f4d1f966c89437bb18fe5707fc6e2/transformed/Paymob-SDK-1.5.7/AndroidManifest.xml:19:13-69
+activity#cat.ereza.customactivityoncrash.activity.DefaultErrorActivity
+ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:10:9-12:49
+	android:process
+		ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:12:13-46
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:11:13-89
+provider#cat.ereza.customactivityoncrash.provider.CaocInitProvider
+ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:14:9-18:39
+	android:authorities
+		ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:16:13-85
+	android:exported
+		ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:17:13-37
+	android:initOrder
+		ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [cat.ereza:customactivityoncrash:2.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e72c33e95b14c4228093e5c2c2619538/transformed/customactivityoncrash-2.4.0/AndroidManifest.xml:15:13-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/1b5058aac022f8167a95c0156a030d2d/transformed/play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/7e0b37db93d073142a45eacf4dcbdcef/transformed/play-services-base-18.5.0/AndroidManifest.xml:5:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/190e776ce61574b8122a6f23779eefea/transformed/play-services-basement-18.4.0/AndroidManifest.xml:6:20-65
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/71cbf253b12493fca81fc4f2408cf54f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/71cbf253b12493fca81fc4f2408cf54f/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/38c9f8bd81bf91b8eeb12cbebd5303ca/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/fa301728fd397767c17d150760663f43/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/ed6a3e1e567cf6709ca4b0b343c9bc6b/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.unopharm.myapplication666.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.unopharm.myapplication666.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/0a67c76671e52aabea730143e0efdf6d/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] /Users/waleedmakarem/Downloads/smartTable-master 2/gradle/caches/8.9/transforms/e99362f41eb3a3f67c796ad86f2a07d7/transformed/profileinstaller-1.4.0/AndroidManifest.xml:50:25-92
